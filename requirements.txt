@@ -1,0 +1,11 @@
+
+Flask
+pandas
+numpy
+psycopg2
+matplotlib
+seaborn
+SQLAlchemy
+plotly
+python-dotenv
+
